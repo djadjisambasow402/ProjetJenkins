@@ -20,9 +20,7 @@
     </dependency>
     <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-war-plugin -->
    <!-- <dependency>
-      <groupId>org.apache.maven.plugins</groupId>
-      <artifactId>maven-war-plugin</artifactId>
-      <version>2.2</version>
+      grouope 5
     </dependency> -->
 
   </dependencies>
