@@ -1,5 +1,6 @@
-mvn <html>
+<html>
 <body>
-<h2>Hello World!</h2>
+  <h1>GROUPE 5</h1>
+<h2>Bonjour à tous et à toutes </h2>
 </body>
 </html>
